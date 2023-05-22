@@ -2,7 +2,7 @@ Real Estate Listings Website
 
 This is a real estate listings website that allows users to browse and search for properties for sale.
 
-Features
+Features:
 
 User-friendly interface for viewing property details
 Property search functionality
